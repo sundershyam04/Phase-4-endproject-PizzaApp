@@ -1,0 +1,24 @@
+Create a Prototype for Joe’s Pizza Portal
+
+GitHub: https://github.com/sundershyam04/Phase-4-endproject-PizzaApp.git
+
+WRITEUP:
+
+# Create a ASP.NET MVC core WebApp on Visual Studio
+
+# Create a Controller called Pizza inwhich Index, Cart, and Checkout actionmethods are created
+
+#In models, Pizza and OrderInfo class is created
+
+#A static List of Pizza details and OrderInfo is created at start of Controller class
+
+#Index view is created to show the pizza details stored in static list
+
+#Cart view is created to enter quantity of pizza required furthermore, display the pizza details at once.
+
+#when Checkout( button ) is clicked in Cart page control redirects to checkout page
+
+#in Checkout page, total order made by a customer is displayed with full details
+
+#app is published and deployed in Azure and tested with given specs
+
